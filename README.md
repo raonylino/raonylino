@@ -1,4 +1,5 @@
-## Hi there <img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" alt="Flutter Logo" width="200px"> ##
+# Hi there <img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" alt="Flutter Logo" width="100px">
+
 
 ### Welcome to my GitHub profile! 🚀  
 <div align="center">
