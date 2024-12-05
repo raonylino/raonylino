@@ -1,4 +1,4 @@
-# Hi there <img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" alt="Flutter Logo" width="100px">
+# Hello world, I'm Raony Lino <img src="https://storage.googleapis.com/cms-storage-bucket/780e0e64d323aad2cdd5.png" alt="Flutter Logo" width="100px">
 
 
 ### Welcome to my GitHub profile! 🚀  
@@ -10,16 +10,31 @@
 
 ---
 ### 🛠️ Skills & Technologies
-- **Frameworks**: Flutter, Dart
-- **State Management**: Bloc, Provider, Riverpod
-- **Backend**: Firebase, REST APIs
-- **Tools**: Git, VS Code, Android Studio
-- **Other Skills**: Responsive Design, Animation, Unit Testing, Cloud Firestore
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50px">
+
+</div>
+
 ---
-### 🌱 Currently Learning
-- Advanced Flutter animations
-- Clean Architecture in Flutter
-- Flutter Web & Desktop
+## 🌱 Education
+
+### 🎓 Bachelor in Computer Science
+**Pontifical Catholic University of Minas Gerais**
+
+### 📚 Flutter Academy
+**Rodrigo Rahman**  
+
+### ⚡ Technical Degree in Electronics
+**São João da Escócia Institution**  
+
 ---
 
 
