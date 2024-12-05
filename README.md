@@ -16,9 +16,10 @@
 - **Tools**: Git, VS Code, Android Studio
 - **Other Skills**: Responsive Design, Animation, Unit Testing, Cloud Firestore
 ---
-
-| 🌱 Currently Learning | 📫 How to Reach Me |
-|------------------------|--------------------|
-| - Advanced Flutter animations<br>- Clean Architecture in Flutter<br>- Flutter Web & Desktop | - **[LinkedIn](https://www.linkedin.com/in/raony-lino-7011a1237/)**<br>- **[Email](mailto:Raony_lino@hotmail.com)**<br>- **[Portfolio](https://raonylino.github.io/)** |
+### 🌱 Currently Learning
+- Advanced Flutter animations
+- Clean Architecture in Flutter
+- Flutter Web & Desktop
+---
 
 
